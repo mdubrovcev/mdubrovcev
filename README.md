@@ -13,7 +13,7 @@
 ### 📁 Mоё резюме:
 
   <div id="badges">
-      <a href="https://github.com/mdubrovcev/My_CV/blob/main/Maksim's%20Resume%20(7).pdf" target="_blank">
+      <a href="https://github.com/mdubrovcev/My_CV/blob/main/Maksim_Dubroutsau_CV.pdf" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/654/654141.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
